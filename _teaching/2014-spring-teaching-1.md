@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Multivariable Calculus - MATH234"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UW-Madison"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Fall 22, Spring 23, Spring 24. 
 
 Heading 1
 ======
