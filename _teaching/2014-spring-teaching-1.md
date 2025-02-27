@@ -1,18 +1,7 @@
 ---
 title: "Multivariable Calculus - MATH234"
 collection: teaching
-type: ""
-permalink: /teaching/2014-spring-teaching-1
+permalink: https://guide.wisc.edu/courses/math/
 venue: "UW-Madison"
 ---
-
-Fall 22, Spring 23, Spring 24. 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+TA Fall 22, TA Spring 23, Head TA Spring 24. 
