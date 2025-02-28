@@ -44,4 +44,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co organized the Madison Math Circle with Hongyu Zhu from 2022-2024. The Math Circle is an outreach program aimed at middle school and early high school students to let them solve problems in a fun setting while inviting them to learn more math.
