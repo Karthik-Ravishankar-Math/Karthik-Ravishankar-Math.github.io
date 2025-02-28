@@ -1,5 +1,6 @@
 ---
 title: "Multivariable Calculus - MATH234"
+collection: teaching
 permalink: https://guide.wisc.edu/courses/math/
 venue: "UW-Madison"
 ---
