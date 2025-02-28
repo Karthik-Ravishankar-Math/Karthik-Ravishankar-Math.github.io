@@ -7,7 +7,6 @@ excerpt: 'This symmetry breaking coloring property is studied for certain specia
 date: 2020-02-13
 venue: 'CALDAM 2020'
 paperurl: 'https://dl.acm.org/doi/10.1007/978-3-030-39219-2_20'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 A graph G is said to be k-distinguishable if every vertex of the graph can be colored from a set of k colors such that no non-trivial automorphism fixes every color class. The distinguishing number D(G) is the least integer k for which G is k-distinguishable. If for each we have a list L(v) of colors, and we stipulate that the color assigned to vertex v comes from its list L(v) then G is said to be -distinguishable where . The list distinguishing number of a graph, denoted, is the minimum integer k such that every collection of lists with admits an -distinguishing coloring. In this paper, we prove that:
