@@ -5,7 +5,7 @@ category: conferences
 permalink: https://dl.acm.org/doi/10.1007/978-3-030-39219-2_20
 excerpt: 'This symmetry breaking coloring property is studied for certain special classes of graphs'
 date: 2020-02-13
-venue: 'CALDAM 2020'
+venue: 'CALDAM'
 paperurl: 'https://dl.acm.org/doi/10.1007/978-3-030-39219-2_20'
 ---
 
