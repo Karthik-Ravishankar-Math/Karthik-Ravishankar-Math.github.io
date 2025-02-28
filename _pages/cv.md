@@ -44,4 +44,5 @@ Teaching
   
 Service and leadership
 ======
-* Co organized the Madison Math Circle with Hongyu Zhu from 2022-2024. The Math Circle is an outreach program aimed at middle school and early high school students to let them solve problems in a fun setting while inviting them to learn more math.
+* Co organized the Madison Math Circle from 2022-2024. The Math Circle is an outreach program aimed at middle school and early high school students letting them solve math problems in a fun setting.
+* Ran a directed reading program in Fall22 on Proofs from the book and Spring23 on Graph Theory to get undergraduate students exposed to higher math concepts typically not seen at an undergraduate level.
