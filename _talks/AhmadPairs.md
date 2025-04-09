@@ -1,7 +1,7 @@
 ---
 title: " Characterizing Ahmad pairs in the local structure"
 collection: talks
-type: "Talk"
+type: "Logic Seminar"
 permalink: /talks/AhmadPairs
 venue: "University of Wisconsin-Madison"
 date: 2024-11-26
