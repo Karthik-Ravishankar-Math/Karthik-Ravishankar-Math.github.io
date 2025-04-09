@@ -3,7 +3,7 @@ title: " Separating the halves of an Ahmad pair"
 collection: talks
 type: "Logic Seminar"
 permalink: /talks/AhmadPairs
-slidesurl: 'https://karthik-ravishankar-math.github.io/files/separationSlides.pdf'
+slidesurl: 'http://karthik-ravishankar-math.github.io/files/separationSlides.pdf'
 venue: "University of Wisconsin-Madison"
 date: 2025-04-08
 location: "Madison, WI, USA"
