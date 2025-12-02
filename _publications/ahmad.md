@@ -1,7 +1,6 @@
 ---
 title: "Contrasting the Halves of an Ahmad Pair"
 collection: publications
-category: conferences
 permalink: 'https://arxiv.org/abs/2511.22901'
 excerpt: 'We show that the left half has to be low_3 while the right half is high_2'
 venue: submitted.
