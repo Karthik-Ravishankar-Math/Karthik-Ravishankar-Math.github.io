@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.nav_label != 'Home' %}{{ page.title | escape }} — {% endif %}Karthik Ravishankar</title>
+  <meta name="description" content="Karthik Ravishankar, mathematics PhD student at the University of Wisconsin–Madison. Research in computability theory and mathematical logic.">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/academic-favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <a class="identity" href="{{ '/' | relative_url }}">Karthik Ravishankar<span>Mathematics · UW–Madison</span></a>
+    <nav aria-label="Main navigation">
+      {% assign labels = 'Home,Publications,Talks,Teaching,CV' | split: ',' %}
+      {% assign paths = '/,/publications/,/talks/,/teaching/,/cv/' | split: ',' %}
+      {% for label in labels %}
+      <a href="{{ paths[forloop.index0] | relative_url }}"{% if page.nav_label == label %} class="active" aria-current="page"{% endif %}>{{ label }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+  <main id="content"{% if page.wide %} class="home-page"{% endif %}>
+    {{ content }}
+    <footer>
+      <div><span>Karthik Ravishankar</span><p>University of Wisconsin–Madison</p></div>
+      <a href="mailto:kravishanka3@wisc.edu">Email <span aria-hidden="true">↗</span></a>
+    </footer>
+  </main>
+</body>
+</html>
