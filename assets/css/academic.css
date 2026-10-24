@@ -27,7 +27,7 @@
 
 /* Talk categories follow the CV, with titles beneath each section heading. */
 .talks-content section{margin-bottom:2rem}
-.talks-content .section-heading h2{font-size:1.75rem;line-height:1.3;font-weight:600;letter-spacing:-.025em}
+.talks-content .section-heading h2{font-size:2.25rem;line-height:1.3;font-weight:600;letter-spacing:-.025em}
 .talks-content .talk-list article:first-child{border-top:0}
 .talks-content .talk-list h3{margin:10px 0}
-@media(max-width:640px){.talks-content .section-heading h2{font-size:1.5rem}}
+@media(max-width:640px){.talks-content .section-heading h2{font-size:2rem}}
